@@ -4,3 +4,5 @@
 # Installation
 
 pip install folium
+
+pip install tqdm
