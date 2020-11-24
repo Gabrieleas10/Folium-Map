@@ -26,4 +26,4 @@ mapa.add_child(folium.LatLngPopup())
 
 mapa.add_child(mc)
 
-mapa.save('GDMap.html')
+mapa.save('Costumers_map.html')
